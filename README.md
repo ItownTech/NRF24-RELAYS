@@ -1,3 +1,10 @@
+
+![images1](https://github.com/huexpub/nrf24-relays/blob/master/images/1relays.png?raw=true)
+
+![images2](https://github.com/huexpub/nrf24-relays/blob/master/images/2relays.png?raw=true)
+
+![images3](https://github.com/huexpub/nrf24-relays/blob/master/images/3relays.png?raw=true)
+
 #
 继电器为AC交流电产品，请确保你理解PCB后使用！确保操作规范，焊接无误，否则将会烧坏电源和nrf24m mcu模块！
 #
