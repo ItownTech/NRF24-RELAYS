@@ -18,3 +18,7 @@ NRF24M刷机前建议使用arduino环境，否则将会出现无法OTA，
 
 #
 模块仅支持5A继电，建议低于1000W以内，如接led大功率，请必须购买T型号，材质agsion2
+
+##all-in-one
+
+使用此固件，请使用控制器，找到节点ID下的子项 设置var继电器数量1 2 3  ，设置var2为SWITCH模式0  button模式1
