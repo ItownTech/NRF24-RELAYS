@@ -23,3 +23,8 @@ NRF24-RELAYS 支持中继的2.4G无线开关改装模块
 
 #
 文件仅供个人使用，严禁商业化行为！
+
+
+## QQ讨论群
+
+![mynrf24-front](https://github.com/huexpub/MYNRF24/blob/master/doc/Mysenso-QQ.png)
