@@ -13,8 +13,7 @@ NRF24-RELAYS 支持中继的2.4G无线开关改装模块
 
 (以下操作请不要连AC交流电，使用刷机工具即可）
 
-1.先使用arduvess刷入hex文件，刷写完成即可，设置请参考tool-flash.png文件或者访问https://mysensor.pub/nrf24m/relays查看
-
+1.先使用arduvess刷入hex文件，刷写完成即可，设置请参考tool-flash.png文件或者访问https://mysensor.pub/nrf24m/relays
 
 #
 模块仅支持5A继电， 请计算控制好功率场景，如接led大功率，请必须购买T型号，材质agsion2
