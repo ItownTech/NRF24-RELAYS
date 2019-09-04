@@ -1,5 +1,5 @@
 Comment,Description,Designator,Footprint,LibRef,Pins,Quantity,PartNumber,url
-100nF (104) 10% 50V,Ã˘∆¨µÁ»›,"C1,C3,",0603_C,0603_100nF__104_10%_50V,2,2,C14663,http://www.szlcsc.com/product/details_15331.html
+100nF (104) 10% 50V,Ã˘∆¨µÁ»›,"C1,C3,C7",0603_C,0603_100nF__104_10%_50V,2,2,C14663,http://www.szlcsc.com/product/details_15331.html
 10uF (106) 10% 10V,Ã˘∆¨µÁ»›,"C4,C2,",0603_C,0603_10uF__106_10%_10V,2,2,C19702,http://www.szlcsc.com/product/details_20411.html
 CAP,desc,"C5,",CASE-B_3528,libref,2,1,,∑«±ÿ–Î
 22uF (226) 20% 6.3V,Ã˘∆¨µÁ»›,"C6,",0603_C,0603_22uF__226_20%_6.3V,2,1,C59461,http://www.szlcsc.com/product/details_60514.html
